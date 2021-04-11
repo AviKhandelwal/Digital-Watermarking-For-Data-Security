@@ -1,1 +1,7 @@
 # Digital-Watermarking-For-Data-Security
+
+With Internet rapidly developing, illegal copy of digital content poses a serious problem since it can be conveniently reproduced and modified by anyone with minimal technical skills. Most vulnerable to such attacks are the digital images published on websites. Digital Watermarking can be used as a means for discovering unauthorized content usage and also for copyright protection. It is basically a technique of embedding some unique identification mark also called as watermark into the digital image by its owner. After embedding, watermarked data is generated. A good Watermarking technique must have certain qualities such as robustness and imperceptibility. In the proposed method a watermark is hidden using a secret key in digital image which only the owners of that content can extract using the unique watermarking extraction algorithm.
+
+The characteristics of the watermarking system are determined mainly by 2 important factors which are robustness and invisibility. These Watermarking techniques further can be categorized into spatial domain and frequency domain. Although experience has shown that spatial domain techniques need less hardware and have shorter execution time, but they are not much resistant against malicious attacks, while there are many techniques in frequency domains like DCT and DWT which prove to be more robust.
+
+Following 2 images have been used as a part of the data set for the project.
